@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 dockurr/windows:latest
 linuxserver/wps-office:chinese-version-2024-06-14
+nriver/trilium-cn:latest
