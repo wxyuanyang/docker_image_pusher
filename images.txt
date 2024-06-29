@@ -7,4 +7,6 @@ nginx
 #dockurr/windows:latest
 #linuxserver/wps-office:chinese-version-2024-06-14
 #nriver/trilium-cn:latest
-haroldli/alist-tvbox:latest
+#haroldli/alist-tvbox:latest
+xhofe/alist:latest
+0nlylty/dockercopilot:UGREEN
