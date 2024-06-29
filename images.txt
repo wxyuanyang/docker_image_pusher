@@ -4,6 +4,7 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dockurr/windows:latest
-linuxserver/wps-office:chinese-version-2024-06-14
-nriver/trilium-cn:latest
+#dockurr/windows:latest
+#linuxserver/wps-office:chinese-version-2024-06-14
+#nriver/trilium-cn:latest
+haroldli/alist-tvbox:latest
