@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -8,5 +8,6 @@ nginx
 #linuxserver/wps-office:chinese-version-2024-06-14
 #nriver/trilium-cn:latest
 #haroldli/alist-tvbox:latest
-xhofe/alist:latest
-0nlylty/dockercopilot:UGREEN
+#xhofe/alist:latest
+#0nlylty/dockercopilot:UGREEN
+vinlic/kimi-free-api:latest
